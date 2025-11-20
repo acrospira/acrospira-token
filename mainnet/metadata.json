@@ -2,7 +2,7 @@
   "name": "Acrospira",
   "symbol": "ACRO",
   "description": "The official utility token of the Acrospira ecosystem. A token designed for rewards, access tiers, and the Acrospace experience.",
-  "image": "https://raw.githubusercontent.com/acrospira/acrospia-logo/main/acrospira_logo.png",
+  "image": "https://raw.githubusercontent.com/acrospira/acrospira-token/main/mainnet/acrospira_logo.png",
   "external_url": "https://acrospira.com",
   "seller_fee_basis_points": 0,
   "attributes": [
