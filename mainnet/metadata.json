@@ -1,0 +1,22 @@
+{
+  "name": "Acrospira",
+  "symbol": "ACRO",
+  "description": "The official utility token of the Acrospira ecosystem. A token designed for rewards, access tiers, and the Acrospace experience.",
+  "image": "https://raw.githubusercontent.com/acrospira/acrospia-logo/main/acrospira_logo.png",
+  "external_url": "https://acrospira.com",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    { "trait_type": "Category", "value": "Utility Token" },
+    { "trait_type": "Ecosystem", "value": "Acrospira" },
+    { "trait_type": "Network", "value": "Solana Mainnet" },
+    { "trait_type": "Total Supply", "value": "161800000" }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "TREASURY_WALLET_PUBLIC_KEY",
+        "share": 100
+      }
+    ]
+  }
+}
