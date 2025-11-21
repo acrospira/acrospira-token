@@ -116,7 +116,6 @@ Logo in:
 - ✔️ Freeze Authority rimossa  
 - ✔️ Update Authority conservata (per eventuali aggiustamenti)  
 
-ACRO è ora **completo, stabile e pronto per la documentazione finale e l’integrazione nell’ecosistema Acrospira.**
 
 ---
 
